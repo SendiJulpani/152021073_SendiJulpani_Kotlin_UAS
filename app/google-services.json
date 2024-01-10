@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "362374862513",
+    "firebase_url": "https://projectiot-68a41-default-rtdb.firebaseio.com",
+    "project_id": "projectiot-68a41",
+    "storage_bucket": "projectiot-68a41.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:362374862513:android:ef47ec5215851c6b9fb490",
+        "android_client_info": {
+          "package_name": "com.example.projectiot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "362374862513-3vbh2onvt3rv5an737nkm1rdbbb8t65v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3ZRNTVl4F0Eke2eFMlzdoTGS1NcN0D_8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "362374862513-3vbh2onvt3rv5an737nkm1rdbbb8t65v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
